@@ -1,3 +1,3 @@
 # MCUSTM32
-Accendere led da registro
-Realizzato per stm32f4 discovery
+Turn on led with registers
+Project realized for stm32f4 discovery
